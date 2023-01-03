@@ -1,2 +1,2 @@
-# ECE-661-Homework
+# Graduate-Deep-Neural-Nets-Homework
 Homework for Graduate Deep Learning Course
